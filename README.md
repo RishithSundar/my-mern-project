@@ -2,10 +2,9 @@
 
 ShopEZ is a custom-built e-commerce application designed to provide a seamless shopping experience. It features a highly responsive React/Vite frontend and a secure, strict MVC Node.js/Express backend for dedicated admin order management.
 
-## 🔗 Important Links
+## 🔗 Important Link
 
-* Watch the Demo Video - https://drive.google.com/drive/folders/1baQCZSqEzrUqoVDp4h-FEOtdbJGSsjMA?usp=sharing
-* View Project Documentation - https://drive.google.com/drive/folders/1W4A65yXpCuXJJyxJX5-DhlYFJE95k2rM?usp=sharing
+* View Project Files and Documentation - https://drive.google.com/drive/folders/1W4A65yXpCuXJJyxJX5-DhlYFJE95k2rM?usp=sharing
 
 ## 🛠️ Technology Stack
 
